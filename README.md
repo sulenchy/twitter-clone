@@ -1,4 +1,4 @@
-# Twitter Clone
+# Twit
 In this app, I recreate some of Twitter app functionalities such as add new, like tweet, comment etc
 
 ## Project Setup
